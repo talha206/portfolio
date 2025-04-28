@@ -40,7 +40,6 @@ const initialState: ProjectsState = {
       category: ['frontend', 'backend', 'fullstack'],
       technologies: ['React', 'Redux', 'Node.js', 'Express', 'MongoDB', 'Socket.io'],
       githubUrl: 'https://github.com/talha206/Db-Project-Ticket-app.git',
-      liveUrl: 'https://example.com',
       featured: true,
     },
     {

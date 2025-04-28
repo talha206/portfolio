@@ -156,7 +156,8 @@ function SkillCard({ skill, getIconForSkill }: SkillCardProps) {
           <span>Proficiency</span>
           <span>{skill.proficiency}%</span>
         </div>
-        <Progress value={skill.proficiency} className="h-2" indicatorClassName={`bg-[${skill.color}]`} />
+        <Progress value={skill.proficiency} className="h-2" indicatorColor={`bg-[${skill.color}]`} />
+
       </div>
     </div>
   );

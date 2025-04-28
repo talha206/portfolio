@@ -112,7 +112,7 @@ export function ContactSection() {
               <div>
                 <h3 className="text-xl font-space-grotesk font-bold mb-6">Contact Information</h3>
                 <p className="text-muted-foreground mb-8">
-                  Feel free to reach out if you have any questions or want to work together. I'll get back to you as soon as possible.
+                  Feel free to reach out if you have any questions or want to work together. I&apos;ll get back to you as soon as possible.
                 </p>
               </div>
 

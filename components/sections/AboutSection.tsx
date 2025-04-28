@@ -41,7 +41,7 @@ export function AboutSection() {
                 Hello! I&apos;m Muhammad Talha Naveed, a dedicated Frontend Developer with 2 years of internship experience. I specialize in building responsive, user-friendly web applications using modern technologies like React, Next.js, and TypeScript.
               </p>
               <p>
-                My journey in web development began when I discovered my passion for creating visually appealing and functional interfaces. Since then, I've been constantly learning and improving my skills to deliver exceptional user experiences.
+                My journey in web development began when I discovered my passion for creating visually appealing and functional interfaces. Since then, I&apos;ve been constantly learning and improving my skills to deliver exceptional user experiences.
               </p>
               <p>
                 I&apos;m passionate about clean code, performance optimization, and accessibility. I believe that good design should be inclusive and accessible to everyone.

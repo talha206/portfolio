@@ -179,15 +179,7 @@ export function ProjectsSection() {
                           Code
                         </a>
                       </Button><Button size="sm" asChild>
-                          <a
-                            href={project.liveUrl}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="flex items-center gap-2"
-                          >
-                            <ExternalLink className="h-4 w-4" />
-                            Live Demo
-                          </a>
+                           
                         </Button></>)}
                   </div>
                 </CardFooter>
