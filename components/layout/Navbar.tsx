@@ -200,7 +200,7 @@ export function Navbar() {
           </nav>
 
           <div className="mt-auto flex items-center justify-center gap-6 py-6">
-            <Link href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="https://github/talha206.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
               <Github size={24} />
             </Link>
             <Link href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
