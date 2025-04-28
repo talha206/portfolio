@@ -23,7 +23,7 @@ export function HeroSection() {
             className="text-center"
           >
             <h1 className="font-space-grotesk text-4xl md:text-6xl lg:text-7xl font-bold leading-tight tracking-tight">
-              <span className="text-foreground">Hi, I'm </span>
+              <span className="text-foreground">Hi, I&apos;m </span>
               <span className="bg-gradient-to-r from-chart-1 via-chart-2 to-chart-3 bg-clip-text text-transparent">
                 Muhammad Talha Naveed
               </span>

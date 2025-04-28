@@ -90,7 +90,7 @@ export function AboutSection() {
                   <div className="text-4xl font-bold text-chart-3 mb-2">15+</div>
                   <div className="text-lg font-medium">Technologies</div>
                   <p className="text-sm text-muted-foreground mt-2">
-                    Various technologies and frameworks I've worked with
+                    Various technologies and frameworks I&apos;ve worked with
                   </p>
                 </CardContent>
               </Card>

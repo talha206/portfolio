@@ -95,7 +95,7 @@ export function ContactSection() {
           </h2>
           <div className="h-1 w-20 bg-primary mx-auto mt-4 mb-6 rounded-full" />
           <p className="text-muted-foreground">
-            Have a project in mind? Let's discuss how I can help
+            Have a project in mind? Lets&apos; discuss how I can help
           </p>
         </motion.div>
 
