@@ -61,9 +61,9 @@ export function HeroSection() {
                 </Link>
               </Button>
               <Button variant="outline" size="lg">
-                <Link href="@/public/Resume.pdf" download>
+                <a href="/Resume.pdf" download className='flex'>
                 <Download className="mr-2 h-4 w-4" />
-                <span>Download CV</span></Link>
+                <span>Download CV</span></a>
               </Button>
             </motion.div>
           </motion.div>
