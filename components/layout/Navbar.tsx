@@ -171,7 +171,7 @@ export function Navbar() {
           <div className="flex justify-between items-center">
             <Link href="/" className="flex items-center gap-2" onClick={() => setIsMenuOpen(false)}>
               <Code size={32} className="text-primary" />
-              <span className="font-space-grotesk text-xl font-bold">John Doe</span>
+              <span className="font-space-grotesk text-xl font-bold">Muhammad Talha Naveed</span>
             </Link>
             <Button
               variant="ghost"
